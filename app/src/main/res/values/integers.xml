@@ -12,4 +12,5 @@
 
     <integer name="detail_header_tile_maxLines">3</integer>
 
+    <integer name="default_last_added_show_limit">100</integer>
 </resources>
