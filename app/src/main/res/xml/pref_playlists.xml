@@ -13,6 +13,14 @@
             android:positiveButtonText="@null"
             android:title="@string/pref_title_last_added_interval" />
 
+        <com.kabouzeid.appthemehelper.common.prefs.supportv7.ATEEditTextPreference
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true"
+            android:inputType="number"
+            android:defaultValue="@integer/default_last_added_limit"
+            android:key="last_added_limit"
+            android:title="Last added list limit" />
+
     </com.kabouzeid.appthemehelper.common.prefs.supportv7.ATEPreferenceCategory>
 
 </androidx.preference.PreferenceScreen>
