@@ -300,4 +300,6 @@
     <string name="sort_order_album">Albumi</string>
     <string name="sort_order_year">Vuosi</string>
     <string name="finish_current_music_sleep_timer">Lopeta viimeinen kappale</string>
+    <string name="last_added_items_show_limit">Rajoitus viimeksi lisättyjen tuotteiden näyttämiselle</string>
+    <string name="enable">activer</string>
 </resources>

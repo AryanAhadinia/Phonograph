@@ -295,4 +295,6 @@
     <string name="sort_order_artist">Artysta</string>
     <string name="sort_order_album">Album</string>
     <string name="sort_order_year">Rok</string>
+    <string name="last_added_items_show_limit">Limit wyświetlania ostatnio dodanych elementów</string>
+    <string name="enable">włączyć</string>
 </resources>

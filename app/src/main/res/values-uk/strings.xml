@@ -282,4 +282,6 @@
     <string name="sort_order_artist">Виконавець</string>
     <string name="sort_order_album">Альбом</string>
     <string name="sort_order_year">Рік</string>
+    <string name="last_added_items_show_limit">Обмеження для показу останніх доданих елементів</string>
+    <string name="enable">увімкнути</string>
 </resources>
