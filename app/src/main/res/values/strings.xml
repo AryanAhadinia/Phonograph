@@ -312,4 +312,6 @@
     <string name="dialog_ringtone_message">Allow phonograph to modify audio settings</string>
     <string name="last_added_items_show_limit">Limit for showing last added items</string>
     <string name="enable">Enable</string>
+    <string name="last_added_items_show_limit_summery">Summery</string>
+    <string name="invalid_last_added_limit">Error</string>
 </resources>

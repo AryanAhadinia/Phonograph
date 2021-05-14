@@ -304,4 +304,6 @@
     <string name="dialog_ringtone_message">السماح لـphonograph بتعديل إعدادات الصوت</string>
     <string name="last_added_items_show_limit">الحد لعرض العناصر المضافة الأخيرة</string>
     <string name="enable">ممكن</string>
+    <string name="last_added_items_show_limit_summery">صيفي</string>
+    <string name="invalid_last_added_limit">خطأ</string>
 </resources>

@@ -302,4 +302,6 @@
     <string name="finish_current_music_sleep_timer">Lopeta viimeinen kappale</string>
     <string name="last_added_items_show_limit">Rajoitus viimeksi lisättyjen tuotteiden näyttämiselle</string>
     <string name="enable">activer</string>
+    <string name="last_added_items_show_limit_summery">kesäinen</string>
+    <string name="invalid_last_added_limit">virhe</string>
 </resources>

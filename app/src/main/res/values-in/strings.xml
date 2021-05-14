@@ -304,4 +304,6 @@
     <string name="dialog_ringtone_message">Izinkan phonograph mengubah pengaturan audio</string>
     <string name="last_added_items_show_limit">Batas untuk menampilkan item terakhir ditambahkan</string>
     <string name="enable">memungkinkan</string>
+    <string name="last_added_items_show_limit_summery">untuk musim panas</string>
+    <string name="invalid_last_added_limit">kesalahan</string>
 </resources>

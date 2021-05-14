@@ -297,4 +297,6 @@
     <string name="sort_order_year">An</string>
     <string name="last_added_items_show_limit">Limită pentru afișarea ultimelor elemente adăugate</string>
     <string name="enable">permite</string>
+    <string name="last_added_items_show_limit_summery">estival</string>
+    <string name="invalid_last_added_limit">eroare</string>
 </resources>

@@ -304,4 +304,6 @@
     <string name="dialog_ringtone_message">Phonograph erlauben, die Audioeinstellungen zu verändern</string>
     <string name="last_added_items_show_limit">Limit für die Anzeige der zuletzt hinzugefügten Elemente</string>
     <string name="enable">aktivieren</string>
+    <string name="last_added_items_show_limit_summery">sommerlich</string>
+    <string name="invalid_last_added_limit">Error</string>
 </resources>
